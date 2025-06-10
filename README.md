@@ -26,11 +26,6 @@ SkillSync is a secure, PHP-based web application that allows administrators to c
 │   ├── quiz_add.php
 │   ├── quiz_edit.php
 │
-├── user/
-│   └── events/
-│       ├── add-event.php
-│       ├── edit-event.php
-│
 ├── index.php
 ├── take_quiz.php
 │
